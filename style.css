@@ -1,0 +1,13 @@
+.centerdiv{
+    /* width: 500px;
+    height: 500px; */
+    background-color: antiquewhite;
+    
+}
+
+@media only screen and (max-width: 600px) {
+    .centerdiv {
+        width: 380px;
+        height: 450px;
+    }
+}
